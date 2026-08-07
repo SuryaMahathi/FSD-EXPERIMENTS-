@@ -1,3 +1,23 @@
+# Node modules
 node_modules/
-node_modules/
+
+# Compiled JavaScript files
 *.js
+
+# Source maps
+*.js.map
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
